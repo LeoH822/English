@@ -8,3 +8,7 @@ refactor
 attibute
 render
 analysis
+repository 
+minimal 
+effective
+dose 
