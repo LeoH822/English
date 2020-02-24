@@ -1,49 +1,50 @@
-7 days ago i met Leo.   We lot of time play with him.  He as spider man.   I play with him.  His character is "MeightTwoTwo".  
-
-Leo has a friends, they are good.  He want always be at his home.  One of his friends its i.  Leo Character have shield. 
-
-
-This shield is good. That shield from donge. His favority color is blue or green.  One time, he had girlfriend, by not now. 
-
-This girlfried got gift by Leo. Leo love Summer, summer is hot,but on the other hand, in summer people can swim. 
-
-Some people, which like a water. Leo have same hands. Its mean, right hand and left is 100% familiar. Hands not differnt.
-
-By the way , Leo has moved to his Home, because he want to learn. Leo is Boy. I'm boy too. Leo does make AnimalBlog with me. 
-
-When i once met a Leo, i told "Hello,go play together". "Hi, how are you?" - its sentense for some person.
-
-Leo didn't set a date, date of finish learning. Leo has three nuts. Leo wants four nuts, because 3 nuts it is too small for him.
-
-At the moment, Leo sitting at room. Leo began programmin 3 years ago. Its good idea. Leo like wish, its meat, its animal from water.
-
-By the way , Leo likes go to mountin for fly on air. Leo lives on North or on Sourth, i dont know. Once leo take off his one nut.
-
-Leo has base in mountain. I heard, Leo likes a meditation. Leo character has a horse. I want to cut this horse. I'm sure of this.
-
-At the moment , Leo is watching at his screen. Color of his screen is black. Leo character usual lead his horse. 
-
-When i cry, Leo tries to help me. Leo not dark person , he is good Leo love machine learning. Leo have a notebook.
-
-Leo create plan in this notebook. He is wait, when until he get finish. Leo is important figure of this world. 
-
-Leo likes watch on sky, at night, sky has a stars. Erlier, Leo built a house, which like a box. 4 days ago, we did lvl up at field of Wasterland , Wasterland it is noun.
-
-I like a rest. This sentense is correct. West of this , stay another location. Westland isn't interesting location. Leo is reaching his goal. He wants a fast win. 
-
-Leo has five fingers. Leo likes good singers. Leo likes to listen an ambient music. On another hand leo has six fingers. Leo has missed his girlfriend. Erlier, Leo has brought drons to home.
-
-Summer is heat event. When winter will start, temperature on streets will be not heat, cold. Also, on streets will appear snow. Leo is bring his dick at coffeshop tomorrow. When Leo Will came to coffeshop, he take a sit.
-
-Leo will fill a cup, when he will at cofeshoop. 
+1. Use each of the following at least once in a story.
 
 
 
 
+16	with	141	same
+17	as	142	mean
+18	I	143	differ
+19	his	144	move
+20	they	145	right
+21	be	146	boy
+22	at	147	old
+23	one	148	too
+24	have	149	does
+25	this	150	tell
+26	from	151	sentence
+27	or	152	set
+28	had	153	three
+29	by	154	want
+30	hot	155	air
+31	but	156	well
+32	some	157	also
 
 
+283	room	408	lead
+284	friend	409	cry
+285	began	410	dark
+286	idea	411	machine
+287	fish	412	note
+288	mountain	413	wait
+289	north	414	plan
+290	once	415	figure
+291	base	416	star
+292	hear	417	box
+293	horse	418	noun
+294	cut	419	field
+295	sure	420	rest
+296	watch	421	correct
+297	color	422	able
 
 
-
-
-Test done.
+363	west	488	miss
+364	ground	489	brought
+365	interest	490	heat
+366	reach	491	snow
+367	fast	492	bed
+368	five	493	bring
+369	sing	494	sit
+370	listen	495	perhaps
+371	six	496	fill
