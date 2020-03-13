@@ -5,7 +5,7 @@ specification
 draft
 restructure
 refactor
-attibute
+attribute
 render
 analysis
 repository 
